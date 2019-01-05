@@ -12,4 +12,5 @@ Window {
         height: 480
         color: "red"
     }
+    1
 }
